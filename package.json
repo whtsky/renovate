@@ -201,7 +201,7 @@
     }
   },
   "release": {
-    "branch": "v13",
+    "branch": "stable",
     "tagFormat": "${version}",
     "analyzeCommits": {
       "preset": "angular",
