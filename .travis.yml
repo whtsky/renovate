@@ -45,4 +45,4 @@ deploy:
   script: yarn semantic-release
   skip_cleanup: true
   on:
-    branch: v13
+    branch: stable
